@@ -365,7 +365,7 @@ http://190.11.130.46/mnp/mtv/output.mpd
 https://g5.proy-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2G4IHnfxSj2GwTRpmR53wy/7ee34ba27d8dab44e2dddd82b16aca9f/558-mtv_00s.png?fm=webp&q=80" group-title="Musica" , MTV 00's
-http://45.5.117.182:8000/play/a0gk/index.m3u8
+http://170.82.37.21:8000/play/a01x/index.m3u8
 
 #EXTINF:-1 tvg-id="HTV.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-HTV.png" audio-track="spa" group-title="Musica", HTV
 http://190.11.130.46/mnp/htv/output.mpd
