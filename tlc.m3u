@@ -96,7 +96,7 @@ http://181.191.140.2:8000/play/a0gu/index.m3u8
 http://181.191.140.2:8000/play/a0gv/index.m3u8  
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="Deportes", TyC Sports
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+http://181.191.140.2:8000/play/a0fj/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTurbo.png" audio-track="spa" group-title="Deportes", Discovery Turbo
 http://190.11.130.46/mnp/dsc_turbo/output.mpd
