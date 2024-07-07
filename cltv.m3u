@@ -296,7 +296,7 @@ http://190.11.130.46/mnp/disc_hh/output.mpd
 http://190.11.130.46/mnp/dsc_tlc/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7bpzYrUNwKD8bjUR4L4xEF/2b2c1bced3899a54e9143558f19e5ebd/78_HolaTV.png?fm=webp&q=80" group-title="Varios" , Hola TV
-http://45.71.252.16:8000/play/a0ie/index.m3u8
+https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1YidEkapW8T04qZBXENP7N/e8ae3d22eaa313daf1df602b2295860a/79_ElGourmetNEW.png?fm=webp&q=80" group-title="Varios" , El Gourmet
 http://190.11.130.46/mnp/gourmet/output.mpd
@@ -305,7 +305,7 @@ http://190.11.130.46/mnp/gourmet/output.mpd
 http://190.11.130.46/mnp/maschic/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3sswkG0BLaUI5CuxxdNiQg/0c362f7462bf1fa5c58ea8b9763cc7e3/85_FoodNetwork.png?fm=webp&q=80" group-title="Varios" , Food Network 
-http://177.53.153.20:8001/play/a03v/index.m3u8
+https://dplus.gammacdn.workers.dev/videos/112.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2VZSYkkMoux2WhaqexQF9U/8bcaa85e77c536532b15dd6e18879cc0/86_AnimalPlanet.png?fm=webp&q=80" group-title="Culturales" , Animal Planet 
 http://45.5.117.182:8000/play/a0hu/index.m3u8
@@ -323,7 +323,7 @@ http://190.11.130.46/mnp/disc_world/output.mpd
 http://190.11.130.46/mnp/natgeohd/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3NsCKLtHpJcpAj6pL0prur/7200b9d1e8851a5d5327269cba3bfabb/94_History2.png?fm=webp&q=80" group-title="Culturales" , History 2 
-http://177.53.153.20:8001/play/a04f/index.m3u8
+http://181.191.140.2:8000/play/a0g3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/32n20IZvi60FVhckqjnhrT/16696255515e884f71a729171f33895c/95_History.png?fm=webp&q=80" group-title="Culturales" , History  
 http://190.11.130.46/mnp/history/output.mpd
