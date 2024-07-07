@@ -274,7 +274,7 @@ http://190.11.130.46/mnp/garage/output.mpd
 http://45.71.252.16:8000/play/a0aj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62bb79a9e887494aeb7b53d7/e22297a85b98822efbb3ad61ec2ae898?tr=q-80&w=1920" group-title="Varios", Las Estrellas
-http://45.182.190.228:8000/play/a04c/index.m3u8
+http://181.176.153.106:8090/play/a0ll/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/9730866.jpg" group-title="Varios", CANAL LUZ
 https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p/index.m3u8
