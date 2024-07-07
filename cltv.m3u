@@ -156,7 +156,7 @@ http://190.11.130.46/mnp/babytv/output.mpd
 http://186.148.163.18:8000/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4On8gxcQzbBZU0e3km6KXH/4334e9a223f6e57e6f91cbbe96fd90a0/Canal_-_DiscoveryID.png?fm=webp&q=80" group-title="Entretenimiento" , Investigation Discovery
-http://177.53.153.20:8001/play/a02j/index.m3u8
+http://181.78.27.128:8000/play/a041/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/27qdyEGErOYlZ0ZIJ9NzCg/aaa55232741d8e6cd434c8e96309feaf/45_FXHD.png?fm=webp&q=80" group-title="Entretenimiento" ,FX HD
 http://190.11.130.46/mnp/fx/output.mpd
