@@ -52,19 +52,19 @@ http://190.11.130.46/mnp/ip/output.mpd
 http://190.11.130.46/mnp/cronica/output.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSLt6hRUX4fw0YfUUdHKjBz_moAzzwRHre_RJhF4HFyqsEKDD9ppxuRNkbK1m02rTWQRqPaZkLq7GoBZSylGJmIwDSvNaQhXntbhrbxK7uy9PeiA5ujNFllB1zrx6CSLXUywsjpm7hMgTSIvB2LMMeqx2Ytb3KV_Nqxm_v9aawEU3FMxuyCBC-Gpri/s392/eldestape-sinfino.png" group-title="Nacionales", El Destape TV 
-https://ythls.armelin.one/channel/UC5wAqJ9NF0fpGH9dVf3h6HA.m3u8 
+https://ythls-v3.onrender.com/channel/UC5wAqJ9NF0fpGH9dVf3h6HA.m3u8 
 
 #EXTINF:-1 tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="Nacionales", Canal E
 https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/1x137ostiNGYbXe5sP-LYMun9ghpr_uz54WATZM7rVeBBrDV-8DQV0Hy8Fv8kbWeX_BIY48Vbng=s176-c-k-c0x00ffffff-no-rj" group-title="Nacionales", Extra TV
-https://ythls.armelin.one/channel/UCy3MW5Goy1epjhvtjalzbKg.m3u8 
+https://ythls-v3.onrender.com/channel/UCy3MW5Goy1epjhvtjalzbKg.m3u8 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/xqQEfRfgmd-7W5YSrsMCULg4NYd2QLU912no0Dmok4FCdC4LI_romUJTN0sRDanNuyarQjJ9=s88-c-k-c0x00ffffff-no-rj" group-title="Nacionales", Diputados TV 
-https://ythls.armelin.one/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
+https://ythls-v3.onrender.com/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png" group-title="Nacionales" , Canal de la Ciudad  
-https://ythls.armelin.one/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
+https://ythls-v3.onrender.com/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Encuentro.png" audio-track="spa"  group-title="Nacionales", Encuentro
 http://190.11.130.46/mnp/encuentro/output.mpd
