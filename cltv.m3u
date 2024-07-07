@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/17nlvY7TZkJ8JxLV8EsRrJ/165f3a1fe19f6db1c390c3dc6423ad66/CC_canal-7.png?fm=webp&q=80" group-title="locales" , CANAL DE LA CIUDAD
-https://ythls.armelin.one/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
+http://181.191.140.2:8000/play/a0hw/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5yCPV36WLATWGEgkWv6h3D/5cc84285f9792100a4444091ddd3999b/07_BRAVO-TV-entretenimiento.png?fm=webp&q=80" group-title="Nacionales" , BRAVO TV
 
