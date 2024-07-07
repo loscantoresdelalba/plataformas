@@ -53,7 +53,7 @@ http://190.11.130.46/mnp/encuentro/output.mpd
 https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6anjLBsxr65zcwVhdtzjRb/5a9b524c63ab7d40c6a678bd6a5aaeea/25_diputados-tv.png?fm=webp&q=80" group-title="Nacionales" , Diputados TV
-https://ythls.armelin.one/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
+https://ythls-v3.onrender.com/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3McziTZ5M5VJkRn4IBIPAh/53add865f835209e59decf37bacb705e/Metro.png?fm=webp&q=80" group-title="Nacionales" , METRO
 http://181.191.140.2:8000/play/a0g0/index.m3u8
@@ -74,7 +74,7 @@ https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/HACpPafOQ9Yj5f8T8Ey1Y/fe9b0f454657b8c4812a138c5870239e/12_ClaroSports.png?fm=webp&q=80" group-title="Deportes" , Claro Sports
-https://r.mjh.nz/PlutoTV/6320d80a66666000086712d7-alt.m3u8
+https://jmp2.uk/PlutoTV/6320d80a66666000086712d7-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6IbZzov0IsfGwSja8FthCt/cf83d31a80d595a8cd88259bfcf505e1/Canal_-_TyCSports.png?fm=webp&q=80" group-title="Deportes" , TyC Sports
 http://181.191.140.2:8000/play/a0fj/index.m3u8
@@ -341,7 +341,7 @@ https://s8.stweb.tv/chacra/live/playlist.m3u8
 http://190.11.130.46/mnp/cnn/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7dFW8ObBhLGbX7a2srHRzD/b611742e2e344fa79f56b49566134bd6/101_France24.png?fm=webp&q=80" group-title="Internacional" , France 24
-https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+https://ythls-v3.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2xKKf5FbEuF0k9lQFVpCG6/5c9be8f8de1ae9570b4311edf4c64c88/103_DeutscheWelleAmerika.png?fm=webp&q=80" group-title="Internacional" , Deutsche Welle Amerika
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
