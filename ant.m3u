@@ -259,7 +259,7 @@ http://190.11.130.46/mnp/ae/output.mpd
 http://190.11.130.46/mnp/discovery/output.mpd
 
 #EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History2.png" audio-track="spa" group-title="Culturales", History 2
-http://177.53.153.20:8001/play/a04f/index.m3u8
+http://181.191.140.2:8000/play/a0g3/index.m3u8
 
 #EXTINF:-1 tvg-id="HistorySouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History.png" audio-track="spa" group-title="Culturales", History
 http://190.11.130.46/mnp/history/output.mpd
@@ -310,16 +310,16 @@ http://45.71.252.16:8000/play/a0hk/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3gBoVelP3w7EOJ9cF2AFxL/b7a0f9e1db82041c815a8754ed9abd05/universal-crime.png?fm=webp&q=80" group-title="Premium" , Universal Crime
-http://45.231.104.67:6102/play/a031/index.m3u8
+http://45.170.225.212:48001/play/a09g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/60dStMuZCfyo3DqEMD0RFa/aa4713364373db825f7983a2086890b5/universal-cinema.png?fm=webp&q=80" group-title="Premium" , Universal Cinema
 http://45.5.117.182:8000/play/a0jz/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3E162p4ysAkaik0txYYN0k/66dc9be0cc3d18c163e5d9f1f8b97b78/universal-comedy.png?fm=webp&q=80" group-title="Premium" , Universal Comedy
-http://45.231.104.67:6102/play/a032/index.m3u8
+http://45.170.225.212:48001/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/26kcx0bBMEXfcFCR7gea7t/1c1b48583ea217a1a21020d12a8e0d3a/universal-reality.png?fm=webp&q=80" group-title="Premium" , Universal Reality
-http://45.231.104.67:6102/play/a030/index.m3u8
+http://45.170.225.212:48001/play/a037/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6ZzSgskyQeKxH1jVARP4Be/f5e9c9bd641b4b6b524a2677e0f60842/universal-premiere.png?fm=webp&q=80" group-title="Premium" , Universal Premiere
 http://45.5.117.182:8000/play/a0ig/index.m3u8
