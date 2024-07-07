@@ -153,7 +153,7 @@ http://190.11.130.46/mnp/babytv/output.mpd
 
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2SzoSJd5lT0ZmR0PxMxktc/cc2214cecf0cc9d307d6b7ef54a46b98/41_ClaroCinema.png?fm=webp&q=80" group-title="Entretenimiento" , Claro Cinema
-http://45.5.116.178:8000/play/a04c/index.m3u8
+http://186.148.163.18:8000/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4On8gxcQzbBZU0e3km6KXH/4334e9a223f6e57e6f91cbbe96fd90a0/Canal_-_DiscoveryID.png?fm=webp&q=80" group-title="Entretenimiento" , Investigation Discovery
 http://177.53.153.20:8001/play/a02j/index.m3u8
