@@ -242,7 +242,7 @@ http://190.11.130.46/mnp/amc/output.mpd
 http://190.11.130.46/mnp/axn/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Entretenimiento", ID
-http://190.11.130.46/mnp/axn/output.mpd
+http://181.78.27.128:8000/play/a041/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/adults.png"group-title="Entretenimiento", Adult Swin
 http://190.11.130.46/mnp/adultswim/output.mpd
