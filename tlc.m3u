@@ -152,7 +152,7 @@ http://190.2.213.38:8000/play/a06r/index.m3u8
 http://190.11.130.46/mnp/disc_kids/output.mpd
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20230208T013050SQUARE.png_20230208013050.png" tvg-chno="4604" group-title="Infantiles" , Clan
-https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
+https://jmp2.uk/SamsungTVPlus/ESBC4100003WE.m3u8
 
 #EXTINF:-1 tvg-id="NickJrSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-NickJr.png" audio-track="spa" group-title="Infantiles", Nick Jr
 http://190.11.130.46/mnp/nickjr/output.mpd
