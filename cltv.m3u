@@ -17,7 +17,7 @@ http://190.11.130.46/mnp/america/output.mpd
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8  
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/312yMcrIGiQtdig5oClpwN/76083b34ced746c828b959983b69e979/04_TVPublica.png?fm=webp&q=80" group-title="Nacionales" , TV Publica
-http://181.191.140.2:8000/play/a0hd/index.m3u8
+https://ythls-v3.onrender.com/channel/UCs231K71Bnu5295_x0MB5Pg.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6P3cAVk7GNmmuj0S16nCnb/a88ae2224ef75d7d31597ec2cffdc7c6/12_canal-9.png?fm=webp&q=80" group-title="Nacionales" , El Nueve
 http://190.11.130.46/mnp/elnueve/output.mpd
@@ -77,16 +77,16 @@ http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 https://jmp2.uk/PlutoTV/6320d80a66666000086712d7-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6IbZzov0IsfGwSja8FthCt/cf83d31a80d595a8cd88259bfcf505e1/Canal_-_TyCSports.png?fm=webp&q=80" group-title="Deportes" , TyC Sports
-http://181.191.140.2:8000/play/a0fj/index.m3u8
+http://112307897359776763.ofd0628.xyz:80/play/hu111735/Rak3N8ukv94/776763.ts
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3NCwVCRCmBEov5n6ou5hAA/c4270c0c6d2988c47c6350ca36175180/13_ESPN.png?fm=webp&q=80" group-title="Deportes" , ESPN
-http://181.191.140.2:8000/play/a0gv/index.m3u8  
+http://181.78.27.128:8000/play/a03q/index.m3u8 
     
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4mdSmIihFejWNGVPiIMkvz/d76a823f16543c95ec31e0cea741201a/14_ESPN2.png?fm=webp&q=80" group-title="Deportes" , ESPN 2
-http://181.191.140.2:8000/play/a0gu/index.m3u8
+http://181.78.27.128:8000/play/a02d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/40Af6YGkRbNo4itC8W6bq4/609b923b2441aa8b32a7d5f9fec977c9/15_ESPN3.png?fm=webp&q=80" group-title="Deportes" , ESPN 3
-http://181.191.140.2:8000/play/a0gw/index.m3u8
+http://45.5.151.151:8000/play/a0hx/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/ESPN%204.jpg" group-title="Deportes",ESPN 4
 http://190.11.130.46/mnp/espn_extra/output.mpd
