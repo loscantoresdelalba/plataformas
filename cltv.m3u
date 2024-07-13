@@ -77,7 +77,7 @@ http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 https://jmp2.uk/PlutoTV/6320d80a66666000086712d7-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6IbZzov0IsfGwSja8FthCt/cf83d31a80d595a8cd88259bfcf505e1/Canal_-_TyCSports.png?fm=webp&q=80" group-title="Deportes" , TyC Sports
-http://112307897359776763.ofd0628.xyz:80/play/hu111735/Rak3N8ukv94/776763.ts
+http://190.11.130.46/mnp/6ym1cI5NULP0gJHuXiaWh5ZRqJO0ZR4T/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3NCwVCRCmBEov5n6ou5hAA/c4270c0c6d2988c47c6350ca36175180/13_ESPN.png?fm=webp&q=80" group-title="Deportes" , ESPN
 http://181.78.27.128:8000/play/a03q/index.m3u8 
